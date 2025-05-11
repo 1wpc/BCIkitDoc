@@ -26,13 +26,13 @@
 
 ## 3. 原理图与结构设计
 
-![48ddfd789ad6065069ca310f81addbcc](E:\project\BCIkitDoc\img\48ddfd789ad6065069ca310f81addbcc.jpg)
+![48ddfd789ad6065069ca310f81addbcc](img\48ddfd789ad6065069ca310f81addbcc.jpg)
 
-![ea7a037fbef0d0b832697b170c196783](E:\project\BCIkitDoc\img\ea7a037fbef0d0b832697b170c196783.jpg)
+![ea7a037fbef0d0b832697b170c196783](img\ea7a037fbef0d0b832697b170c196783.jpg)
 
-![ef12a32aa826c1bf998231f0c6d1883d](E:\project\BCIkitDoc\img\ef12a32aa826c1bf998231f0c6d1883d.png)
+![ef12a32aa826c1bf998231f0c6d1883d](img\ef12a32aa826c1bf998231f0c6d1883d.png)
 
-![4a4402503b6377092d84536765984aa3](E:\project\BCIkitDoc\img\4a4402503b6377092d84536765984aa3.png)
+![4a4402503b6377092d84536765984aa3](img\4a4402503b6377092d84536765984aa3.png)
 
 ## 4. 软件支持（Software Support）
 
@@ -43,7 +43,7 @@
 
 ## 5. 开发环境配置（Development Setup）
 
-<img src="https://i-blog.csdnimg.cn/direct/2d8b6c8ef12f442995365cddf62e2417.jpeg" alt="img"  />
+![img](https://i-blog.csdnimg.cn/direct/2d8b6c8ef12f442995365cddf62e2417.jpeg)
 
 电极与开发板连接，接在最下面一排的位置，最左右两边是耳夹电极（参考电极），从左到右1-8通道
 
