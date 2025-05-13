@@ -21,7 +21,7 @@
 | 存储         | 8MB PSRAM，4MB Flash                        |
 | 通信接口     | WIFI / micro-USB                            |
 | 模拟通道数   | 最多支持 8 通道 EEG 输入                    |
-| 尺寸         | 50mm x 50mm x 31mm                          |
+| 尺寸         | 50mm x 50mm x 31.5mm                        |
 | 板载功能     | 电池管理、开关按钮、SD卡槽                  |
 
 ## 3. 原理图与结构设计
@@ -66,3 +66,4 @@
 
 2. 运行代码
 
+   test.ipynb
